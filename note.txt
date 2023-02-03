@@ -1,0 +1,22 @@
+Java StringBuffer Class:
+Java StringBuffer class is used to create mutable (modifiable) String objects. The StringBuffer class in Java is the same as String class except it is mutable
+i.e. it can be changed.
+
+What is a mutable String?
+A String that can be modified or changed is known as mutable String.
+
+1)StringBuffer Class append() Method
+The append() method concatenates the given argument with this String.
+
+2) StringBuffer insert() Method
+The insert() method inserts the given String with this string at the given position.
+
+3) StringBuffer replace() Method
+The replace() method replaces the given String from the specified beginIndex and endIndex.
+
+4) StringBuffer delete() Method
+The delete() method of the StringBuffer class deletes the String from the specified beginIndex to endIndex.
+
+5) StringBuffer reverse() Method
+The reverse() method of the StringBuilder class reverses the current String.
+
